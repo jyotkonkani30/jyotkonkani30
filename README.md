@@ -60,7 +60,7 @@
 
 ## 🧠 LeetCode & DSA
 
-- 📌 [LeetCode Profile](https://leetcode.com/u/jyotkonkani30/)  
+- 📌 [LeetCode Profile](https://leetcode.com/u/jyot007/)  
 - 💡 Focus areas: Arrays, Strings, Graphs, and Dynamic Programming  
 - 💬 Open to collaborating on interesting projects  
 
